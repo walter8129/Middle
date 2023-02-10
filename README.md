@@ -1,2 +1,2 @@
-# middle
-Source code manager for ROBLOX.
+# Middle
+Source code management made easy with Middle.
