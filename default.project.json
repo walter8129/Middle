@@ -1,0 +1,12 @@
+{
+    "name": "Middle",
+    "tree": {
+        "$className": "DataModel",
+        "ServerScriptService": {
+            "$path": "src/Server"
+        },
+        "ReplicatedStorage": {
+            "$path": "src/Shared"
+        }
+    }
+}
